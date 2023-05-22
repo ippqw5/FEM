@@ -1,4 +1,4 @@
-课件/
 *.png
 demo.ipynb
 .vscode
+/*.pdf
