@@ -13,3 +13,4 @@
   > fem_4_alter.ipynb 是换了一种二重积分方式，但失败了，一直算不对。
 
 - `fem_5.ipynb`是 parabolic型 2D算例 <-- 课件 **Chapter 4**
+- `fem_6.ipynb`是 stokes 2D算例 <-- 课件 **Chapter 6**
